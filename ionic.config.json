@@ -1,7 +1,0 @@
-{
-  "name": "CoinkSignup",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
